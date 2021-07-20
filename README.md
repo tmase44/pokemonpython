@@ -1,0 +1,2 @@
+# pokemonpython
+learning python
